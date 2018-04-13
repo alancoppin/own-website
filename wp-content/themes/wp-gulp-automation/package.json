@@ -1,0 +1,30 @@
+{
+  "name": "wp-gulp-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config_gulp.js",
+  "dependencies": {
+    "beepbeep": "^1.2.0",
+    "bower": "^1.7.9",
+    "browser-sync": "^2.17.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-bower": "^0.0.13",
+    "gulp-connect": "^5.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-newer": "^1.3.0",
+    "imagemin-pngquant": "^5.0.0",
+    "jshint": "^2.9.3",
+    "lodash.debounce": "^4.0.8",
+    "newer": "^0.1.5"
+  },
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

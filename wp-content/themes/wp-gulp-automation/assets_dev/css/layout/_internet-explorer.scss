@@ -1,0 +1,6 @@
+@mixin ie($ver) {
+    html.ie#{$ver} {
+        @content;
+    }
+}
+

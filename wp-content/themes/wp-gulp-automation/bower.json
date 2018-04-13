@@ -1,0 +1,30 @@
+{
+  "name": "wp-gulp-automation",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lightbox2": "^2.8.2",
+    "gsap": "^1.19.0",
+    "ekko-lightbox": "^5.2.0"
+  },
+  "devDependencies": {
+    "lightbox2": "^2.8.2",
+    "jQuery.mmenu": "https://github.com/FrDH/jQuery.mmenu.git#5.7.4",
+    "featherlight": "https://github.com/noelboss/featherlight.git#^1.5.0",
+    "scrollreveal": "^3.3.2",
+    "jquery": "3.1.1"
+  },
+  "resolutions": {
+    "jquery": "1.9.1 - 3"
+  }
+}
