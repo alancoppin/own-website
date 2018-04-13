@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52121484-2dbc-4578-bf0b-c6e017ef9e28" name="Default" comment="" />
+    <list default="true" id="52121484-2dbc-4578-bf0b-c6e017ef9e28" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +63,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="113" />
-    <option name="y" value="23" />
+    <option name="x" value="139" />
+    <option name="y" value="43" />
     <option name="width" value="1400" />
     <option name="height" value="987" />
   </component>
@@ -113,15 +115,15 @@
       <option name="presentableId" value="Default" />
       <updated>1523601777693</updated>
       <workItem from="1523601784260" duration="355000" />
-      <workItem from="1523604545208" duration="1685000" />
+      <workItem from="1523604545208" duration="2284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2040000" />
+    <option name="totallyTimeSpent" value="2639000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="113" y="23" width="1400" height="987" extended-state="0" />
+    <frame x="139" y="43" width="1400" height="987" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32968238" />
